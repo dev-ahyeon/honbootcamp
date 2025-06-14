@@ -1,4 +1,7 @@
-## 🎓 honbootcamp
+# 🏕 혼부캠 (HonBootcamp)
 
-32주간 혼자 진행하는 개발자 부트캠프입니다.  
-Java, Spring Boot, Linux, CS, 알고리즘 등을 주차별로 정리하고 학습한 내용을 체계적으로 기록합니다.
+혼자 하는 개발자 부트캠프 기록용 프로젝트입니다.  
+**Spring Boot + PostgreSQL + Docker + IntelliJ + WSL 환경**에서 백엔드 개발을 연습합니다.
+
+**혼을 담은 회고**  
+[honbootcamp_week01]()  
