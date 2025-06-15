@@ -1,0 +1,25 @@
+# 🗂 IDE 디폴트 무시 파일
+.idea/
+*.iml
+/shelf/
+/workspace.xml
+/httpRequests/
+dataSources/
+dataSources.local.xml
+
+# 🍎 macOS 시스템 파일
+.DS_Store
+
+# 🔨 Gradle & 빌드
+.gradle/
+**/build/
+*.lock
+!gradle/wrapper/gradle-wrapper.jar
+
+# 🧾 로그 파일
+*.log
+
+# ⚙️ Backend 전용 무시
+/backend/build/
+/backend/.gradle/
+/backend/*.iml
