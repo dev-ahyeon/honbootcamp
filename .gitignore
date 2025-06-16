@@ -2,7 +2,7 @@
 .idea/
 *.iml
 /shelf/
-/workspace.xml
+workspace.xml
 /httpRequests/
 dataSources/
 dataSources.local.xml
@@ -15,6 +15,13 @@ dataSources.local.xml
 **/build/
 *.lock
 !gradle/wrapper/gradle-wrapper.jar
+
+# 🐳 Docker 관련
+*.env
+docker-compose.override.yml
+.docker/
+**/Dockerfile
+**/docker-compose*.yml
 
 # 🧾 로그 파일
 *.log
